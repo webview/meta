@@ -29,9 +29,9 @@ There are five main code components of the webview organization:
 ## Repository Naming Conventions
 [naming]: naming
 
-- `webview_core` - the core headers
-- `webview_docs` - the documentation for the core library (structure to be determined)
-- `webview_rfcs` - the RFC library
+- `webview` - the core headers
+- `docs` - the documentation for the core library (structure to be determined)
+- `rfcs` - the RFC library
 - `webview_testing` - a testing harness for all devices
 - `webview_actions` - common actions for repositories
 - `webview_%language%` - a binding to the core headers, where `%language%` is `nim`, `rust`, `python` etc.
