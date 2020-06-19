@@ -26,6 +26,8 @@ There are five main code components of the webview organization:
 - documentation
 - testing
 
+Core is consisted of [the main webview repository](https://github.com/webview/webview) which provides the backbone for all the language specific bindings, and eventually each language binding should depend on it for providing similar underlying behavior.
+
 ## Repository Naming Conventions
 [naming]: naming
 
