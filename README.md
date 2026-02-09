@@ -2,14 +2,14 @@
 
 - [Goal](#goal)
 - [Structure](#structure)
-- [Naming Conventions](#naming)
+- [Repository Naming Conventions](#repository-naming-conventions)
 - [CODEOWNERS](#codeowners)
-- [Semantic Versioning](#versioning)
+- [Semantic Versioning](#semantic-versioning)
 - [RFCs](#rfcs)
 - [Licensing](#licensing)
 - [Contributing](#contributing)
-- [Code of Conduct](#conduct)
-- [Social Contract](#contract)
+- [Code of Conduct](#code-of-conduct)
+- [Social Contract](#social-contract)
 
 ## Our Goal
 [goal]: goal
